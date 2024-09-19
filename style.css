@@ -1,0 +1,25 @@
+*{
+    font-family: padrão;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#topo{
+    display: flex;
+    background-color: #456AF2;
+    color: #fff;
+    width: 100%;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.topo{
+}
+
+.x{
+    display: flex;
+    justify-content: right;
+}
